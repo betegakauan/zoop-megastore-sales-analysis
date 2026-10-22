@@ -1,0 +1,51 @@
+customer_id,customer_name,email,state,state_name,country,latitude,longitude,subscription_plan
+101,Enzo Gomes,enzo.gomes@email.com,GO,Goiás,Brazil,-15.9,-49.8,No
+102,Heloísa Alves,heloísa.alves@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+103,Marcos Correia,marcos.correia@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+104,Luiza Silva,luiza.silva@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+105,Luiza Machado,luiza.machado@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+106,Daniel Alves,daniel.alves@email.com,BA,Bahia,Brazil,-12.5,-41.7,No
+107,Rafaela Reis,rafaela.reis@email.com,RS,Rio Grande do Sul,Brazil,-29.7,-53.5,Yes
+108,Ana Gomes,ana.gomes@email.com,DF,Distrito Federal,Brazil,-15.8,-47.9,Yes
+109,Carla Melo,carla.melo@email.com,PE,Pernambuco,Brazil,-8.4,-37.9,No
+110,Daniel Pereira,daniel.pereira@email.com,GO,Goiás,Brazil,-15.9,-49.8,Yes
+111,Victor Dias,victor.dias@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,Yes
+112,Pedro Santos,pedro.santos@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+113,Nicole Pereira,nicole.pereira@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+114,Larissa Fernandes,larissa.fernandes@email.com,BA,Bahia,Brazil,-12.5,-41.7,Yes
+115,Gabriela Correia,gabriela.correia@email.com,GO,Goiás,Brazil,-15.9,-49.8,No
+116,Patrícia Machado,patrícia.machado@email.com,RS,Rio Grande do Sul,Brazil,-29.7,-53.5,No
+117,Eduarda Reis,eduarda.reis@email.com,RJ,Rio de Janeiro,Brazil,-22.2,-42.7,No
+118,Heloísa Gomes,heloísa.gomes@email.com,PR,Paraná,Brazil,-24.6,-51.6,Yes
+119,Gabriela Rocha,gabriela.rocha@email.com,MG,Minas Gerais,Brazil,-18.5,-44.6,Yes
+120,Isabela Lima,isabela.lima@email.com,RJ,Rio de Janeiro,Brazil,-22.2,-42.7,No
+121,Isabela Machado,isabela.machado@email.com,RS,Rio Grande do Sul,Brazil,-29.7,-53.5,No
+122,Heloísa Gonçalves,heloísa.gonçalves@email.com,GO,Goiás,Brazil,-15.9,-49.8,No
+123,Eloá Cardoso,eloá.cardoso@email.com,MG,Minas Gerais,Brazil,-18.5,-44.6,Yes
+124,Felipe Pereira,felipe.pereira@email.com,RS,Rio Grande do Sul,Brazil,-29.7,-53.5,No
+125,Bernardo Melo,bernardo.melo@email.com,GO,Goiás,Brazil,-15.9,-49.8,No
+126,Isabela Freitas,isabela.freitas@email.com,RJ,Rio de Janeiro,Brazil,-22.2,-42.7,No
+127,Quezia Silva,quezia.silva@email.com,SP,São Paulo,Brazil,-22.3,-48.7,Yes
+128,Carla Nunes,carla.nunes@email.com,RS,Rio Grande do Sul,Brazil,-29.7,-53.5,Yes
+129,Caio Machado,caio.machado@email.com,DF,Distrito Federal,Brazil,-15.8,-47.9,No
+130,Thiago Dias,thiago.dias@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,Yes
+131,Davi Martins,davi.martins@email.com,MG,Minas Gerais,Brazil,-18.5,-44.6,Yes
+132,Quezia Silva,quezia.silva@email.com,GO,Goiás,Brazil,-15.9,-49.8,No
+133,Gabriela Moura,gabriela.moura@email.com,MG,Minas Gerais,Brazil,-18.5,-44.6,No
+134,William Silva,william.silva@email.com,SP,São Paulo,Brazil,-22.3,-48.7,No
+135,Luiza Barbosa,luiza.barbosa@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+136,Samuel Correia,samuel.correia@email.com,MG,Minas Gerais,Brazil,-18.5,-44.6,No
+137,João Pinto,joão.pinto@email.com,BA,Bahia,Brazil,-12.5,-41.7,No
+138,Bruno Nunes,bruno.nunes@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
+139,Tainá Dias,tainá.dias@email.com,SP,São Paulo,Brazil,-22.3,-48.7,Yes
+140,Heloísa Melo,heloísa.melo@email.com,BA,Bahia,Brazil,-12.5,-41.7,No
+141,Tainá Araújo,tainá.araújo@email.com,BA,Bahia,Brazil,-12.5,-41.7,No
+142,Felipe Gonçalves,felipe.gonçalves@email.com,DF,Distrito Federal,Brazil,-15.8,-47.9,Yes
+143,Gabriela Lima,gabriela.lima@email.com,PE,Pernambuco,Brazil,-8.4,-37.9,No
+144,Daniel Cardoso,daniel.cardoso@email.com,BA,Bahia,Brazil,-12.5,-41.7,No
+145,Arthur Silva,arthur.silva@email.com,DF,Distrito Federal,Brazil,-15.8,-47.9,No
+146,Clara Gonçalves,clara.gonçalves@email.com,RJ,Rio de Janeiro,Brazil,-22.2,-42.7,No
+147,Fábio Alves,fábio.alves@email.com,MG,Minas Gerais,Brazil,-18.5,-44.6,No
+148,Eloá Mendes,eloá.mendes@email.com,PE,Pernambuco,Brazil,-8.4,-37.9,No
+149,Vanessa Cardoso,vanessa.cardoso@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,Yes
+150,Eduarda Gomes,eduarda.gomes@email.com,SC,Santa Catarina,Brazil,-27.2,-50.2,No
